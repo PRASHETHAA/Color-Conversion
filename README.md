@@ -26,6 +26,7 @@ End the program and close the output image windows.
 ```python
 # Developed By: PRASHETHAA R
 # Register Number:212220230036
+  
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
 color_image = cv2.imread('nature.jpg')
